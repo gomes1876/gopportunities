@@ -17,6 +17,4 @@ func initializeRoutes(router *gin.Engine){
 		v1.GET("/openings", handler.ListOpeningsHandler)
 	}
 
-
-
 }
