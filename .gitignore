@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+#test binary
+
+*.test
+
+
+#covarge
+
+*.out
+
+#db foldeer
+
+db/
